@@ -1,0 +1,39 @@
+div {
+	width: 150px;
+	height: 150px;
+	float: left;
+
+
+}
+
+#uno {
+
+	background-image: url(../img/bb1.jpg);
+	background-size: 100%;
+}
+
+#dos {
+
+	background-image: url(../img/bb2.jpg);
+	background-size: 100%;
+
+}
+
+#tres {
+
+	background-image: url(../img/bb3.jpg);
+	background-size: 100%;
+	float: right;
+}
+
+#cuatro {
+
+	background-image: url(../img/bb4.jpeg);
+	background-size: 100%;
+}
+
+#cinco {
+
+	background-image: url(../img/bb5.jpg);
+	background-size: 100%;
+}
